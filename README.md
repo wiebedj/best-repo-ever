@@ -2,4 +2,5 @@
 created for Salesforce Trailhead
 added some content
 
-trying for a conflict
+
+this is the second part of the conflict
